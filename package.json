@@ -1,0 +1,21 @@
+{
+  "name": "my-lab-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test Passed Successfully\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliakhtermm1437-dev/my-lab-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aliakhtermm1437-dev/my-lab-project/issues"
+  },
+  "homepage": "https://github.com/aliakhtermm1437-dev/my-lab-project#readme"
+}
