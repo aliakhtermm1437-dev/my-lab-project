@@ -27,5 +27,8 @@ jobs:
       - name: Run Tests
         run: npm test
 
+      - name: Use Secret Variable
+        run: echo "Using API key ${{ PRODUCTION_API_KEY }}"
+
       - name: Deploy Step
         run: echo "Deploying application..."
